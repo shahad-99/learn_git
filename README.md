@@ -1,2 +1,3 @@
-#my app
-This is created only for practicing git commad
+#MyApp
+
+This is created for practising git command
